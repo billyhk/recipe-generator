@@ -1,0 +1,10 @@
+insert into ingredients (name, ingredient_api_id) values ('balsamic vinegar', 2069);
+insert into ingredients (name, ingredient_api_id) values ('kale', 11233);
+insert into ingredients (name, ingredient_api_id) values ('mozzarella cheese', 1026);
+insert into ingredients (name, ingredient_api_id) values ('red onion', 10011282);
+insert into ingredients (name, ingredient_api_id) values ('rosemary', 2036);
+insert into ingredients (name, ingredient_api_id) values ('sweet potato', 11507);
+insert into ingredients (name, ingredient_api_id) values ('gnocchi', 98853);
+insert into ingredients (name, ingredient_api_id) values ('great northern beans', 16025);
+insert into ingredients (name, ingredient_api_id) values ('kale', 11233);
+insert into ingredients (name, ingredient_api_id) values ('parmesan cheese', 1033);
